@@ -24,7 +24,6 @@
 
 <p align="left">About me 👨🏻‍💻</p>
 
-<h1>Your Heading
 <div style="font-size: 16px;">This is some normal size text.</div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
