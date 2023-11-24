@@ -22,7 +22,7 @@
 
 <img align="right" height="300px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvmoraes&layout=compact&theme=shadow_green&langs_count=10"/>
 
-<h1 align="left"> About me</p>
+<p align="left"> About me</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
