@@ -26,10 +26,10 @@
 
 <div align="left">
   
-  > 🎓 Student at 42 Lisbon
-    📸 Amateur photographer
-    🍩 Currently learning Blender
-    🤗 Open to a new job opportunity
+  * 🎓 Student at 42 Lisbon
+  * 📸 Amateur photographer
+  * 🍩 Currently learning Blender
+  * 🤗 Open to a new job opportunity
 
 </div>  
 
