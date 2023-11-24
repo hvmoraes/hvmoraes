@@ -24,7 +24,8 @@
 
 <p align="left">About me 👨🏻‍💻</p>
 
-\> I'm studying at 42 Lisbon 🎓
+<h1>Your Heading
+<div style="font-size: 16px;">This is some normal size text.</div>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
