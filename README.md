@@ -35,20 +35,20 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/henrique-villa-moraes">
+      <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="henrique_linkedin" height="30"/>
+  </a>
+  
   <a href="https://instagram.com/hmoraes_projects">
-    <img align="center" src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="henrique_instagram" height="30"/>
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="henrique_instagram" height="30"/>
   </a>
 
   <a href="mailto:henriquecvcmoraes@gmail.com">
     <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="henrique_gmail" height="30"/>
   </a>
-  
-  <a href="https://www.linkedin.com/in/henrique-villa-moraes">
-      <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="henrique_linkedin" height="30"/>
-  </a>
 
   <a href="https://twitter.com/hcvmoraes">
-    <img align="center" src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="henrique_twitter" height="30"/>
+    <img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="henrique_twitter" height="30"/>
   </a>
 </p>
 
