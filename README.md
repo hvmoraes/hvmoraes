@@ -34,12 +34,14 @@
   Contacts <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">
 </p>
 
- <a href="https://www.linkedin.com/in/henrique-villa-moraes/" target="blank">
-    <img align="left" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="henrique_linkedin" height="30"/>
-</a>
-
-<a href="mailto:henriquecvcmoraes@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="henrique_gmail" height="30"/>
-</a>
+<p align="left">
+   <a href="https://www.linkedin.com/in/henrique-villa-moraes/" target="blank">
+      <img align="left" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="henrique_linkedin" height="30"/>
+  </a>
+  
+  <a href="mailto:henriquecvcmoraes@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="henrique_gmail" height="30"/>
+  </a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
