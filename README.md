@@ -20,7 +20,7 @@
 
 &NewLine;
 
-<img align="right" height="300px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvmoraes&layout=compact&theme=transparent&langs_count=9"/>
+<img align="right" height="300px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvmoraes&layout=compact&theme=chartreuse-dark&langs_count=9"/>
 
 <h1 align="left"> About me</p>
 
