@@ -32,7 +32,7 @@
 
 <h1 align="center">
   Contacts <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">
-</h1>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/henrique-villa-moraes">
