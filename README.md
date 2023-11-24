@@ -22,13 +22,15 @@
 
 <img align="right" height="300px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvmoraes&layout=compact&theme=shadow_green&langs_count=10"/>
 
-<h1 align="left"> About me</p>
+<h1 align="left"> About me</h1>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
 
-<h1 align="center">Contacts <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60"></h1>
+<h1 align="center">
+  Contacts <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">
+</h1>
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
