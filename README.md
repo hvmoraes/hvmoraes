@@ -32,6 +32,8 @@
   Contacts <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">
 </p>
 
+<br></br>
+
  <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank">
     <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30"/>
 </a>
