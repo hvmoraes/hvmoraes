@@ -24,13 +24,15 @@
 
 <p align="left">About me 👨🏻‍💻</p>
 
->  🎓  Student at 42 Lisbon 
-
->  📸  Amateur photographer 
-
->  🍩  Currently learning Blender 
-
->  🤗  Open to a new job opportunity  
+<div align="left">
+  >  🎓  Student at 42 Lisbon 
+  
+  >  📸  Amateur photographer 
+  
+  >  🍩  Currently learning Blender 
+  
+  >  🤗  Open to a new job opportunity
+</div>  
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
