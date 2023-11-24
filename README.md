@@ -32,10 +32,8 @@
   Contacts <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">
 </p>
 
-<br></br>
-
  <a href="https://www.linkedin.com/in/henrique-villa-moraes/" target="blank">
-    <img align="left" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="henrique_linkedin" height="15"/>
+    <img align="left" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="henrique_linkedin" height="30"/>
 </a>
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
