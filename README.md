@@ -25,13 +25,13 @@
 <p align="left">About me 👨🏻‍💻</p>
 
 <div align="left">
-  >  🎓  Student at 42 Lisbon 
+  🎓  Student at 42 Lisbon 
   
-  >  📸  Amateur photographer 
+  📸  Amateur photographer 
   
-  >  🍩  Currently learning Blender 
+  🍩  Currently learning Blender 
   
-  >  🤗  Open to a new job opportunity
+  🤗  Open to a new job opportunity
 </div>  
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
