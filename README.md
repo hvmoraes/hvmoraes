@@ -26,7 +26,7 @@
 
 <div align="left">
   
-  * 🎓 Student at 42 Lisbon
+  * 🎓 Student at <a href="https://www.42lisboa.com">42 Lisbon</a>
   * 📸 Amateur photographer
   * 🍩 Currently learning Blender
   * 🤗 Open to a new job opportunity
