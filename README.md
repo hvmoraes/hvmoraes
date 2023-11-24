@@ -24,8 +24,10 @@
 
 <p align="left">About me 👨🏻‍💻</p>
 
-![AboutMe no Background](https://github.com/hvmoraes/hvmoraes/assets/72853404/37d0463c-f905-4228-b4bc-2b40ff70875c)
-
+/>  🎓  Student at 42 Lisbon 
+/>  📸  Amateur photographer 
+/>  🍩  Currently learning Blender 
+/>  🤗  Open to a new job opportunity  
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
