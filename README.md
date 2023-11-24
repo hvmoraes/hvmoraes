@@ -29,7 +29,7 @@
   * 🎓 Student at <a href="https://www.42lisboa.com">42 Lisbon</a>
   * 📸 Amateur photographer, check my <a href="https://www.instagram.com/hmoraes_photos">Portfolio</a>
   * 🍩 Currently learning Blender
-  * 🤗 Open to a new job opportunity
+  * 🤗 Open to a new job opportunity, check my <a href="https://drive.google.com/file/d/1adg3mJNY5GfyBhxiyQEeyIjK0zcHHnPP/view">resume</a>
   * 🌐 Check my <a href="https://hvmoraes.github.io">Site</a>
 
 </div>  
