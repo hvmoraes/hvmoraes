@@ -6,9 +6,9 @@
   </b>
 </h1>
 
-<h1 align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=600&lines=A+student+at+42+Lisbon+and+a+passionate+photographer+📸">
-</h1>
+</p>
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
