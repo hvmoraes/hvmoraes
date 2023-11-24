@@ -37,7 +37,7 @@
 </a>
 
 <a href="mailto:henriquecvcmoraes@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="henrique_gmail" height="30"/>
+  <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="henrique_gmail" height="30"/>
 </a>
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
