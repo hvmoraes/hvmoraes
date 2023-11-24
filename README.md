@@ -1,5 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?section=header&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
 
+<big>Hello</big>
+
 <h1 align="center">
   <b>
     Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://hvmoraes.github.io">Henrique Moraes</a>!
