@@ -22,7 +22,7 @@
 
 <img align="right" height="300px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvmoraes&layout=compact&theme=shadow_green&langs_count=10"/>
 
-<p align="left">About me 👨🏻‍💻</p>
+<h1 align="left">About me 👨🏻‍💻</h1>
 
 <div align="left">
   
@@ -39,9 +39,9 @@
 
 &NewLine;
 
-<p align="center">
+<h1 align="center">
   Contacts <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="60">
-</p>
+</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/henrique-villa-moraes">
