@@ -1,10 +1,10 @@
 <h1 align="center"><b>Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm <a href="https://hvmoraes.github.io">Henrique Moraes</a>!</b></h1>
 
-<p align="center" style="margin-top:0; padding-top:0;">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=600&lines=A+student+at+42+Lisbon+and+a+passionate+photographer">
 </p>
 
-<div align="center" style="margin-top:0; padding-top:0;">
+<div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
