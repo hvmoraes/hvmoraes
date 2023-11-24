@@ -36,6 +36,10 @@
     <img align="left" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="henrique_linkedin" height="30"/>
 </a>
 
+<a href="mailto:henriquecvcmoraes@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="henrique_gmail" height="30"/>
+</a>
+
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
 </a>
