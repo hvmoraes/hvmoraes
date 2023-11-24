@@ -34,8 +34,8 @@
 
 <br></br>
 
- <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank">
-    <img align="left" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="azzar" height="30"/>
+ <a href="https://www.linkedin.com/in/henrique-villa-moraes/" target="blank">
+    <img align="left" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="henrique_linkedin" height="30"/>
 </a>
 
 <a href="https://github.com/vibrantfix#gh-dark-mode-only">
