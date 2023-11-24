@@ -22,7 +22,7 @@
 
 <img align="right" height="300px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hvmoraes&layout=compact&theme=shadow_green&langs_count=10"/>
 
-<p align="left">About me 👨🏻‍💻</p>
+<p align="left">About me 👨🏻‍💻</h1>
 
 \> I'm studying at 42 Lisbon 🎓
 
