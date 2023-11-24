@@ -24,6 +24,7 @@
 
 <p align="left">About me 👨🏻‍💻</p>
 
+![AboutMe no Background](https://github.com/hvmoraes/hvmoraes/assets/72853404/37d0463c-f905-4228-b4bc-2b40ff70875c)
 
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
