@@ -25,7 +25,7 @@
 <p align="left">About me 👨🏻‍💻</p>
 
 <div align="left">
-  🎓  Student at 42 Lisbon 
+  > 🎓  Student at 42 Lisbon 
   
   📸  Amateur photographer 
   
