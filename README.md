@@ -27,3 +27,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </a>
+
+<a href="https://github.com/vibrantfix#gh-dark-mode-only">
+  <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=0:243694,50:264778,100:427786" alt="Header" width="100%" align = "left"/>
+</a>
