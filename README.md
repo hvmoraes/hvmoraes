@@ -40,7 +40,7 @@
   * 📸 Amateur photographer, check my <a href="https://www.instagram.com/hmoraes_photos">Portfolio</a>
   * 🤓 On track for learning Artificial Intelligence, Python, JavaScript and others
   * 🤔 Learning Blender and Ethical Hacking
-  * 🤗 Open to a new job opportunity, check my <a href="[https://drive.google.com/file/d/1adg3mJNY5GfyBhxiyQEeyIjK0zcHHnPP/view](https://drive.google.com/file/d/1adg3mJNY5GfyBhxiyQEeyIjK0zcHHnPP/view?usp=sharing)">Resume</a>
+  * 🤗 Open to a new job opportunity, check my <a href="https://drive.google.com/file/d/1adg3mJNY5GfyBhxiyQEeyIjK0zcHHnPP/view?usp=sharing">Resume</a>
   * 🌐 If you want to know more about me check my <a href="https://hvmoraes.github.io">Site</a>
 
 </div>  
