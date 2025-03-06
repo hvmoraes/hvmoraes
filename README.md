@@ -35,7 +35,8 @@
 <p align="left">About me 👨🏻‍💻</h1>
 
 <div align="left">
-  
+
+  * 💼 Software Engineer at Nokia
   * 🎓 Studying C/C++/Docker at <a href="https://www.42lisboa.com">42 Lisbon</a>
   * 📸 Amateur photographer, check my <a href="https://www.instagram.com/hmoraes_photos">Portfolio</a>
   * 🤓 On track for learning Artificial Intelligence, Python, JavaScript and others
